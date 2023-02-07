@@ -1,0 +1,9 @@
+C:\Users\Gonza\Desktop\VentasWeb\CapaDatos\bin\Release\CapaDatos.dll
+C:\Users\Gonza\Desktop\VentasWeb\CapaDatos\bin\Release\CapaDatos.pdb
+C:\Users\Gonza\Desktop\VentasWeb\CapaDatos\bin\Release\CapaModelo.dll
+C:\Users\Gonza\Desktop\VentasWeb\CapaDatos\bin\Release\CapaModelo.pdb
+C:\Users\Gonza\Desktop\VentasWeb\CapaDatos\obj\Release\CapaDatos.csprojAssemblyReference.cache
+C:\Users\Gonza\Desktop\VentasWeb\CapaDatos\obj\Release\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Gonza\Desktop\VentasWeb\CapaDatos\obj\Release\CapaDatos.csproj.CopyComplete
+C:\Users\Gonza\Desktop\VentasWeb\CapaDatos\obj\Release\CapaDatos.dll
+C:\Users\Gonza\Desktop\VentasWeb\CapaDatos\obj\Release\CapaDatos.pdb

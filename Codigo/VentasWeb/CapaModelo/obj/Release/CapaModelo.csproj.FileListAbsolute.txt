@@ -1,0 +1,6 @@
+C:\Users\Gonza\Desktop\VentasWeb\CapaModelo\bin\Release\CapaModelo.dll
+C:\Users\Gonza\Desktop\VentasWeb\CapaModelo\bin\Release\CapaModelo.pdb
+C:\Users\Gonza\Desktop\VentasWeb\CapaModelo\obj\Release\CapaModelo.csprojAssemblyReference.cache
+C:\Users\Gonza\Desktop\VentasWeb\CapaModelo\obj\Release\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\Gonza\Desktop\VentasWeb\CapaModelo\obj\Release\CapaModelo.dll
+C:\Users\Gonza\Desktop\VentasWeb\CapaModelo\obj\Release\CapaModelo.pdb
